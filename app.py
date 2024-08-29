@@ -91,7 +91,7 @@ st.write("- CGPA : 8.95/10")
 # --- EDU 1
 st.write("📚", """**Class 12 (Senior Secondary Examination) | Smt. Kamala Saklecha Gyan Mandir**""")
 st.write("- 04/2020 - 07/2021")
-st.write("- Percentage: 92.4%")
+st.write("- Percentage: 92.2%")
 
 
 # --- SKILLS ---

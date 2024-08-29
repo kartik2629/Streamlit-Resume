@@ -59,4 +59,3 @@ I'm Kartik Gupta, a passionate software developer with expertise in web and mobi
 ---
 
 Made with ❤️ by Kartik Gupta.
-```

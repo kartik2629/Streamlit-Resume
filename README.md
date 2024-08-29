@@ -1,6 +1,3 @@
-Here's a `README.md` file for your resume web application:
-
-```markdown
 # 📝 Kartik Gupta's Resume Web Application
 
 Welcome to my resume web application built using **Streamlit**! 🎉 This app provides an interactive and dynamic way to view my professional resume. You can explore my skills, experience, education, and more, all in one place.

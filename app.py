@@ -73,7 +73,8 @@ role to apply academic knowledge and gain industry experience.
 st.write('\n')
 cols = st.columns(len(SOCIAL_MEDIA))
 for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
-    cols[index].write(f"[{platform}]({link})")
+    cols[index].markdown(
+        f"<div style='text-align: center;'><a href='{link}'>{platform}</a></div>", unsafe_allow_html=True)
 st.write("---")
 
 
